@@ -2,6 +2,7 @@
 
 A production-ready React eCommerce web application featuring a modern, polished interface with advanced state management, real-time shopping features, and complete authentication UI.
 DEPLOYMENT LINK:https://ecommerce-app-react-psi.vercel.app/
+Netlify Link:https://dashing-gecko-20dc15.netlify.app/
 
 ## 🚀 Features
 
